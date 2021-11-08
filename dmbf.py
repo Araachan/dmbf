@@ -244,7 +244,7 @@ END: Cython Metadata */
 # else
 #   define CYTHON_UNUSED
 # endif
-#endif
+#endifk
 #ifndef CYTHON_MAYBE_UNUSED_VAR
 #  if defined(__cplusplus)
      template<class T> void CYTHON_MAYBE_UNUSED_VAR( const T& ) { }
